@@ -13,3 +13,6 @@ vtube = Char_control()
 print("Sending expression...")
 vtube.express('sad')
 ```
+
+## Example on simple cli app
+![Example](https://raw.githubusercontent.com/HRNPH/vstudiopy/master/imgs/example.gif)
