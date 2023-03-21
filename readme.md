@@ -15,4 +15,4 @@ vtube.express('sad')
 ```
 
 ## Example on simple cli app
-![Example](https://raw.githubusercontent.com/HRNPH/vstudiopy/master/imgs/example.gif)
+<img src="https://raw.githubusercontent.com/HRNPH/vstudiopy/master/imgs/example.gif"  width="1000">
