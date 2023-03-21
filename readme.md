@@ -1,5 +1,5 @@
 # vtubestudio.py
-a python library custom made for controlling
+a python library custom made for controlling [vtuber studio](https://github.com/DenchiSoft/VTubeStudio)
 - Expression Controlling
 - Subtitle & Props Moving
 - lip Sync To TTS-Audio
